@@ -1,0 +1,6 @@
+--2022-11-27 15:22:31--  https://media-exp1.licdn.com/dms/image/C4D22AQGttRg2DuOmyg/feedshare-shrink_2048_1536/0/1665221139497?e=2147483647
+Resolving media-exp1.licdn.com (media-exp1.licdn.com)... 197.225.170.96, 197.225.170.98, 2001:4290:c:7::c5e1:aa60, ...
+Connecting to media-exp1.licdn.com (media-exp1.licdn.com)|197.225.170.96|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2022-11-27 15:22:31 ERROR 403: Forbidden.
+
